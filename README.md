@@ -14,7 +14,7 @@
 I’m a Software Engenieer student at Univesitiy of Brasília (UnB).
 
 - 🔭 I’m currently working on my skills.
-- 🌱 I’m currently React with TypeScript and Flutter.
+- 🌱 I’m currently learning React with TypeScript and Flutter.
 - 💬 Ask me about Python, C/C++ and JavaScript.
 
 
