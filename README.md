@@ -27,7 +27,8 @@ I’m a Software Engenieer student at Univesitiy of Brasília (UnB).
 
 ### 👯 My top leanguages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwtshh&layout=donut-vertical&hide=html&hide,CMake,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwtshh&layout=donut-vertical&hide=html,CMake,css,java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
