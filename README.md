@@ -1,28 +1,46 @@
-<img alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
 ## Hey 👋, I'm Gustavo Costa 
+
+I'm a fullstack developer with experience in Typescript, React, Node.js, MongoDB, and PostgreSQL. I have skills in deploying applications on servers using Docker. Currently, I am a Software Engineering student at the University of Brasília (UnB), where I continue to enhance my technical skills and passion for developing innovative and efficient solutions.
 
 You can access my portifolio in this link: https://portifolio.cwtsh.site/
 
-<a href="https://github.com/cwtshh" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/gustavo-costa-de-jesus-b418991ba" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 
-### Glad to see you here!  
-I’m a Software Engenieer student at Univesitiy of Brasília (UnB).
+## Professional Experience
 
-- 🔭 I’m currently working on my skills.
-- 🌱 I’m currently learning React with TypeScript and Flutter.
-- 💬 Ask me about Python, C/C++ and JavaScript.
+- **Intern, Fullstack Developer**  
+  *Public Defender's Office of the Federal District (DPDF)*  
+  Contributing to the development and maintenance of web applications, working with technologies such as Node.js, React, and MongoDB. Gaining experience in both backend and frontend development, collaborating on projects that improve legal services and public access.
 
+### My skills
 
-### :fire: My Stats :
+<div style="display: flex; gap: 10px;">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cwtshh&theme=radical&background=000000)](https://git.io/streak-stats)
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native">
+  
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+  
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+  
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+
+  <img src="https://img.shields.io/badge/Ollama-000000.svg?style=for-the-badge&logo=Ollama&logoColor=white" alt="Ollama" />
+
+</div>
+
+## Currently Learning
+
+- **Next.js**: Exploring and building applications with Next.js.
+- **Cross-Platform Social Network**: Developing a social network project as part of my learning journey.
+- **MIPS Assembly**: Gaining proficiency in MIPS assembly language.
 
 
 ### 👯 My top leanguages
