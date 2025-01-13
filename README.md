@@ -11,7 +11,7 @@ You can access my portifolio in this link: https://portifolio.cwtsh.site/
 ## Professional Experience
 
 - **Intern, Fullstack Developer**  
-  *Public Defender's Office of the Federal District (DPDF)*  
+  *Defensoria Pública do Distrito Federal (DPDF)*  
   Contributing to the development and maintenance of web applications, working with technologies such as Node.js, React, and MongoDB. Gaining experience in both backend and frontend development, collaborating on projects that improve legal services and public access.
 
 ### My skills
