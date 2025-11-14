@@ -14,6 +14,11 @@ You can access my portifolio in this link: https://portifolio.cwtsh.site/
   *Defensoria Pública do Distrito Federal (DPDF)*  
   Contributing to the development and maintenance of web applications, working with technologies such as Node.js, React, and MongoDB. Gaining experience in both backend and frontend development, collaborating on projects that improve legal services and public access.
 
+- **Intern, Fullstack Developer**  
+  *Placai*  
+  Working as a full-stack development intern, contributing to the creation and maintenance of internal and client-facing applications. Using **Next.js**, **TypeScript**, and **PostgreSQL**, collaborating on features across both frontend and backend, improving performance, reliability, and overall product quality.
+
+
 ### My skills
 
 <div style="display: flex; gap: 10px;">
@@ -33,6 +38,9 @@ You can access my portifolio in this link: https://portifolio.cwtsh.site/
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 
   <img src="https://img.shields.io/badge/Ollama-000000.svg?style=for-the-badge&logo=Ollama&logoColor=white" alt="Ollama" />
+
+  ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
+  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 </div>
 
